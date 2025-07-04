@@ -12,13 +12,13 @@ import { getAuth, signInWithEmailAndPassword, signInWithPopup, GoogleAuthProvide
 // 7. Enable Google sign-in provider
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAaVEpqLDiZvsT_QFpRvMwoAejdLzPwMow",
-  authDomain: "expense-tracker-6a6e8.firebaseapp.com",
-  projectId: "expense-tracker-6a6e8",
-  storageBucket: "expense-tracker-6a6e8.firebasestorage.app",
-  messagingSenderId: "505544640533",
-  appId: "1:505544640533:web:15fdea527900768bcae61c",
-  measurementId: "G-1CVKJ06T9B"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
